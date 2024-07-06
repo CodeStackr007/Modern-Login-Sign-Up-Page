@@ -4,7 +4,7 @@
 The Learnify Login and Sign Up page provides a clean and straightforward interface for users to create accounts and log in.
 
 #### Technologies Used:
-* HTML
+* HTML (Structure of the project's elements)
 * CSS (For Custom Styles)
 * Javascript (For Sliding Effect and Carousel)
 
